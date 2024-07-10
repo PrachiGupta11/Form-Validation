@@ -1,0 +1,31 @@
+form{
+  font-family:sans-serif;
+}
+label{
+  font-weight:bold;
+}
+hr{
+  border:1px solid #ededed;
+}
+select{
+  width:200px;
+}
+.inputs{
+  height:30px;
+  border-radius:3px;
+  border:1px solid #ededed;
+  width:350px;
+}
+textarea{
+  border-radius:3px;
+  border:1px solid #ededed;
+}
+#button{
+  margin:5px;
+  background-color:#320101;
+  font-family:cursive;
+  padding:12px;
+  border-radius:10px;
+  border:1px solid white;
+  color:white;
+}
